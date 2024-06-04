@@ -1,0 +1,16 @@
+window_sizes 1912 990 450 1455 783 144
+
+diagrams
+  active  classdiagram_ref 128002 // baggage
+    1463 783 100 A3-Landscape 0 0
+end
+show_stereotypes
+selected classrelation_ref 128258 // <dependency>
+open
+  classrelation_ref 128770 // <dependency>
+  class_ref 128130 // Manager
+  class_ref 128258 // Command
+  class_ref 128386 // BaggageCenter
+  class_ref 128514 // BaggageCommand
+end
+end
