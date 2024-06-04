@@ -1,0 +1,4 @@
+﻿  maintest.c
+c:\users\소현\desktop\disorder1\maintest.c(288): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\소현\desktop\disorder1\maintest.c(277): warning C4101: 'sqlcontact' :참조되지 않은 지역 변수입니다.
+  Disorder.vcxproj -> C:\Users\소현\Desktop\Disorder\Debug\Disorder.exe
