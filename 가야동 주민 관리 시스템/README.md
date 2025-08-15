@@ -13,7 +13,7 @@
 
 ### 프로젝트
 <p>▼ main</br>
-<p>- 메인화면</br><img src="가야동 주민 관리 시스템/static/main_화면.jpg" width="650" height="400" /></p>
+<p>- 메인화면</br><img src="https://github.com/hyeon-bs/Portfolio/blob/838ab8d72ed4d807fbb56741d234e5f2ef23462b/%E1%84%80%E1%85%A1%E1%84%8B%E1%85%A3%E1%84%83%E1%85%A9%E1%86%BC%20%E1%84%8C%E1%85%AE%E1%84%86%E1%85%B5%E1%86%AB%20%E1%84%80%E1%85%AA%E1%86%AB%E1%84%85%E1%85%B5%20%E1%84%89%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A6%E1%86%B7/static/main_%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB.jpg" width="650" height="400" /></p>
 <p>- 화면표시</br><img src="가야동 주민 관리 시스템/static/main_txt.jpg" width="650" height="400" /></p>
 <p>- 데이터베이스 연결</br><img src="가야동 주민 관리 시스템/static/main_db.jpg" width="650" height="400" /></p>
 </p>
