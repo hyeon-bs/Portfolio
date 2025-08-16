@@ -17,10 +17,10 @@ shell은 운영체제의 커널과 사용자의 사이를 연결시켜주는 역
 
 ### 프로젝트
 <p>▼ exit 명령어</br>
-<p>- 메인화면</br><img src="" width="650" height="400" /></p>
-<p>- 화면표시</br>
-<pre>
-<code>
+</br>
+## exit 전체 코드
+
+```c
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -120,14 +120,14 @@ void redirect(int sourcefd, char *sourcefile, int destfd, char *destfile, BOOLEA
 
    return;
 }
-</code>
-</pre>
+```
 </p>
+
 <p>▼ ls, pwd, cd, mkdir, rmdir, ln, cp, rm, mv, cat 명령</br>
-<p>- 메인화면</br><img src="" width="650" height="400" /></p>
-<p>- 튜플</br>
-<pre>
-<code>
+</br>
+## ls_pwd_cd_mkdir_rmdir_ln_cp_rm_mv_cat 전체 코드
+
+```c
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -290,6 +290,5 @@ SYMBOL parse(int *waitpid, BOOLEAN makepipe, int *pipefdp)
       } 
    }    
 }
-</code>
-</pre>
+```
 </p>
